@@ -48,5 +48,5 @@ docker run --name name -p 27017:27017 -d mongo
 In case you want to build this repository use `npm run build` or `yarn build`
 
 <span><a href="https://github.com/devery/node_boilerplate"><img src="img/vrBoilerplate.png"></a></span>
-<span><a href="https://github.com/devery/EveplateButton"><img src="img/EveplateButton.png"></a></span>
+<span><a href="https://github.com/devery/eveplate"><img src="img/EveplateButton.png"></a></span>
 <span><a href="https://github.com/devery/deveryjs"><img src="img/jsButton.png"></a></span>
